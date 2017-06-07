@@ -1,7 +1,7 @@
 'use strict'; 
 
 const jasmine = require('jasmine');
-const reverseString = require('../app/index.js').reverseString();
+const reverseString = require('../app/index.js').reverseString;
 
 describe("Produce the reverse order of a word: ", function() {
   describe("Case for en empty string", function() {
