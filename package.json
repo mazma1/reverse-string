@@ -1,0 +1,25 @@
+{
+  "name": "reverse-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazma1/reverse-string.git"
+  },
+  "author": "Mary Mazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazma1/reverse-string/issues"
+  },
+  "homepage": "https://github.com/mazma1/reverse-string#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
